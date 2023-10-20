@@ -14,7 +14,7 @@ require (
 	github.com/pkoukk/tiktoken-go v0.1.0
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d
 	github.com/sashabaranov/go-openai v1.6.1
-	golang.org/x/text v0.8.0
+	golang.org/x/text v0.13.0
 )
 
 require (
@@ -37,6 +37,6 @@ require (
 	github.com/richardlehane/mscfb v1.0.3 // indirect
 	github.com/richardlehane/msoleps v1.0.3 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
-	golang.org/x/net v0.8.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 )
